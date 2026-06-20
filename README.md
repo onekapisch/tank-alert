@@ -30,12 +30,12 @@ kostenlos, werbefrei, mit Preisdaten von Tankerkönig.
   <tr>
     <td><img src="docs/tank-alert-home.png" alt="Günstigste Tankstelle in der Nähe – Live-Spritpreise für E10, E5 und Diesel" width="250" /></td>
     <td><img src="docs/tank-alert-tankuhr.png" alt="Tankuhr – beste Tageszeit zum Tanken mit 24-Stunden-Verlauf" width="250" /></td>
-    <td><img src="docs/tank-alert-preisalarm.png" alt="Preisalarm setzen – Push-Mitteilung wenn der Spritpreis fällt" width="250" /></td>
+    <td><img src="docs/tank-alert-karte.png" alt="Live-Spritpreise auf der Karte – Tankstellen in der Nähe mit Preisen" width="250" /></td>
   </tr>
   <tr align="center">
     <td><sub>Günstigste in der Nähe</sub></td>
     <td><sub>Tankuhr: beste Tankzeit</sub></td>
-    <td><sub>Preisalarm per Push</sub></td>
+    <td><sub>Live-Preise auf der Karte</sub></td>
   </tr>
 </table>
 
