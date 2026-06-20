@@ -2,7 +2,7 @@
 
 <img src="docs/app-icon.png" alt="Tank Alert App-Icon – Spritpreise-App für Deutschland" width="180" />
 
-# ⛽ Tank Alert
+# Tank Alert
 
 **Günstig tanken in Deutschland – live Spritpreise, Preisalarm und die beste Tankzeit.**
 
