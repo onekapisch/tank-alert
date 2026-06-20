@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="docs/tank-alert-home.png" alt="Tank Alert – günstigste Tankstelle und Spritpreise in der Nähe" width="220" />
+<img src="docs/app-icon.png" alt="Tank Alert App-Icon – Spritpreise-App für Deutschland" width="180" />
 
 # ⛽ Tank Alert
 
