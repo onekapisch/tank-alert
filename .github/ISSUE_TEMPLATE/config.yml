@@ -1,0 +1,8 @@
+blank_issues_enabled: false
+contact_links:
+  - name: 🔒 Sicherheitslücke melden
+    url: https://github.com/onekapisch/tank-alert/blob/main/SECURITY.md
+    about: Bitte Sicherheitsprobleme NICHT öffentlich melden – so gehst du vor.
+  - name: 🌐 Website & Hilfe
+    url: https://tankalert.de
+    about: Allgemeine Fragen? Schau zuerst auf tankalert.de und ins FAQ der README.

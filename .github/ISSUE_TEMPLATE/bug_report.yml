@@ -1,0 +1,68 @@
+name: "🐞 Fehler melden"
+description: "Etwas funktioniert nicht wie erwartet? Hilf uns, es zu beheben."
+title: "[Bug]: "
+labels: ["bug"]
+body:
+  - type: markdown
+    attributes:
+      value: "Danke für deine Hilfe! Bitte fülle die Felder so genau wie möglich aus. **Keine Sicherheitslücken hier melden** – siehe [SECURITY.md](../../blob/main/SECURITY.md)."
+  - type: dropdown
+    id: platform
+    attributes:
+      label: Plattform
+      description: Wo tritt das Problem auf?
+      options:
+        - Web-App (tankalert.de)
+        - iOS-App
+        - Beides / unklar
+    validations:
+      required: true
+  - type: textarea
+    id: what-happened
+    attributes:
+      label: Was ist passiert?
+      description: Beschreibe den Fehler. Was hast du erwartet, was ist stattdessen passiert?
+      placeholder: "Beim Setzen eines Preisalarms für Diesel passiert nichts ..."
+    validations:
+      required: true
+  - type: textarea
+    id: steps
+    attributes:
+      label: Schritte zum Nachstellen
+      description: Wie können wir den Fehler reproduzieren?
+      placeholder: |
+        1. tankalert.de öffnen
+        2. Standort erlauben
+        3. ...
+    validations:
+      required: true
+  - type: input
+    id: location-context
+    attributes:
+      label: Ort / Region (optional)
+      description: Stadt oder PLZ, falls es um Preise/Suche in einer bestimmten Region geht.
+      placeholder: "z. B. 90762 Fürth"
+    validations:
+      required: false
+  - type: input
+    id: app-version
+    attributes:
+      label: App-Version (iOS) bzw. Browser
+      description: iOS-App-Version oder verwendeter Browser.
+      placeholder: "iOS-App 1.0.0  /  Safari auf iOS 17"
+    validations:
+      required: false
+  - type: input
+    id: device-os
+    attributes:
+      label: Gerät & Betriebssystem
+      placeholder: "iPhone 15, iOS 17.5  /  Android 14, Chrome"
+    validations:
+      required: false
+  - type: textarea
+    id: screenshots
+    attributes:
+      label: Screenshots (optional)
+      description: Bilder sagen mehr als 1000 Worte – einfach hierher ziehen.
+    validations:
+      required: false

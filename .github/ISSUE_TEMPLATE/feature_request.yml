@@ -1,0 +1,41 @@
+name: "💡 Feature vorschlagen"
+description: "Eine Idee, die Tank Alert besser machen würde?"
+title: "[Feature]: "
+labels: ["enhancement"]
+body:
+  - type: markdown
+    attributes:
+      value: "Danke für deine Idee! Je konkreter, desto besser können wir sie einordnen."
+  - type: dropdown
+    id: platform
+    attributes:
+      label: Für welche Plattform?
+      options:
+        - Web-App (tankalert.de)
+        - iOS-App
+        - Beide
+        - Egal
+    validations:
+      required: true
+  - type: textarea
+    id: problem
+    attributes:
+      label: Welches Problem würde es lösen?
+      description: Welche Situation nervt dich aktuell, oder was fehlt dir?
+      placeholder: "Ich würde gerne mehrere Tankstellen gleichzeitig im Preisalarm beobachten ..."
+    validations:
+      required: true
+  - type: textarea
+    id: proposal
+    attributes:
+      label: Dein Vorschlag
+      description: Wie könnte die Lösung aussehen?
+    validations:
+      required: true
+  - type: textarea
+    id: alternatives
+    attributes:
+      label: Alternativen (optional)
+      description: Gibt es andere Wege, das Problem zu lösen, oder macht es eine andere App schon gut?
+    validations:
+      required: false

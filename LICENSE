@@ -1,0 +1,47 @@
+Tank Alert – Proprietäre Software / Proprietary Software
+Copyright (c) 2026 Tank Alert. Alle Rechte vorbehalten. / All rights reserved.
+
+──────────────────────────────────────────────────────────────────────────────
+DEUTSCH
+──────────────────────────────────────────────────────────────────────────────
+
+Tank Alert ist ein kommerzielles Produkt mit GESCHLOSSENEM Quellcode.
+
+Dieses öffentliche Repository enthält ausschließlich Dokumentation, Release-Notes,
+den Issue-Tracker sowie Marketing-Material (z. B. Screenshots) zu Tank Alert. Es
+enthält NICHT den Quellcode der App und stellt KEINE Open-Source-Lizenz dar.
+
+Sofern nicht ausdrücklich anders gekennzeichnet, sind alle Inhalte dieses
+Repositories – einschließlich Texte, Screenshots, Logos, Markennamen und des
+Namens „Tank Alert" – urheberrechtlich geschützt und Eigentum der Rechteinhaber.
+
+Ohne vorherige schriftliche Genehmigung ist insbesondere NICHT gestattet:
+  - das Kopieren, Verändern, Verbreiten oder kommerzielle Nutzen der Inhalte;
+  - das Nachbilden oder Dekompilieren der App oder ihrer Bestandteile;
+  - die Nutzung der Marke „Tank Alert", der Logos oder des Designs.
+
+Die Nutzung der App und der Website unterliegt den jeweils geltenden Nutzungs-
+bedingungen und der Datenschutzerklärung:
+  - Website:               https://tankalert.de
+  - Datenschutzerklärung:  https://tankalert.de/de/privacy-policy
+  - Impressum:             https://tankalert.de/de/impressum
+
+Die in der App angezeigten Preisdaten stammen von Tankerkönig und stehen unter
+CC BY 4.0 (MTS-K / Bundeskartellamt) – siehe https://creativecommons.tankerkoenig.de.
+Diese Lizenz betrifft ausschließlich die Preisdaten, nicht die App oder dieses Repository.
+
+──────────────────────────────────────────────────────────────────────────────
+ENGLISH (informal summary)
+──────────────────────────────────────────────────────────────────────────────
+
+Tank Alert is a commercial, CLOSED-SOURCE product. This public repository contains
+only documentation, release notes, the issue tracker and marketing assets (e.g.
+screenshots) — NOT the application source code. No open-source license is granted.
+
+All content is protected by copyright and owned by the respective rights holders.
+Copying, modifying, redistributing, reverse-engineering, or using the "Tank Alert"
+name, logos or design without prior written permission is not permitted.
+
+Use of the app and website is governed by the Terms and Privacy Policy at
+https://tankalert.de. Fuel price data is provided by Tankerkönig under CC BY 4.0
+(MTS-K / Bundeskartellamt); that license applies to the price data only.
